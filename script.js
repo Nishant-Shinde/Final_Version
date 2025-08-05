@@ -27,11 +27,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- CONSTELLATION & MODAL LOGIC ---
     const memories = [
-        { title: "Our First Connection", story: " October 5th, 5:39 PM It was then, in the quiet glow of early evening, that our voices met for the very first time. A simple call—about APPAR and DEB ID for Amity— but, in that conversation, something gentle sparked. Two strangers, sharing words as friends, laying the first stones on a path that might become a beautiful story of warmth, understanding, and trust.", image: "../Images/Memory_1.png" },
-        { title: "Our First Day Out", story: "November 28th, 12:30 PM We met as friends on a bright afternoon, ready for a simple adventure together. Hours passed with easy conversation and laughter, turning ordinary moments into memories. As the sun set, we found ourselves sharing soulful pav bhaji— the perfect ending to a day well spent in good company", image: "../Images/Memory_2.png" },
-        { title: "Exchange Of Gifts", story: "An Unforgetable & A Beautiful Ganpati Bappa Drawing & A Special Letter Just before my Delhi Trip.", image: "../Images/Memory_3.jpeg" },
-        { title: "One of the funny memory", story: "Guessing you house address, lol it was fun activity!", image: "../Images/Memory_4.jpeg" },
-        { title: "Late Night Talks", story: "All those late-night talks,the deep conversations and the silly jokes— every moment we've shared means a lot to me. It’s these simple things, the laughter and understanding, that make our friendship truly special.", image: "../Images/Memory_5.jpeg" }
+        { title: "Our First Connection", story: " October 5th, 5:39 PM It was then, in the quiet glow of early evening, that our voices met for the very first time. A simple call—about APPAR and DEB ID for Amity— but, in that conversation, something gentle sparked. Two strangers, sharing words as friends, laying the first stones on a path that might become a beautiful story of warmth, understanding, and trust.", image: "Images/Memory_1.png" },
+        { title: "Our First Day Out", story: "November 28th, 12:30 PM We met as friends on a bright afternoon, ready for a simple adventure together. Hours passed with easy conversation and laughter, turning ordinary moments into memories. As the sun set, we found ourselves sharing soulful pav bhaji— the perfect ending to a day well spent in good company", image: "Images/Memory_2.png" },
+        { title: "Exchange Of Gifts", story: "An Unforgetable & A Beautiful Ganpati Bappa Drawing & A Special Letter Just before my Delhi Trip.", image: "Images/Memory_3.jpeg" },
+        { title: "One of the funny memory", story: "Guessing you house address, lol it was fun activity!", image: "Images/Memory_4.jpeg" },
+        { title: "Late Night Talks", story: "All those late-night talks,the deep conversations and the silly jokes— every moment we've shared means a lot to me. It’s these simple things, the laughter and understanding, that make our friendship truly special.", image: "Images/Memory_5.jpeg" }
     ];
 
     const sky = document.getElementById('constellation-sky');
